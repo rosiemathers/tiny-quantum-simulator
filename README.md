@@ -1,6 +1,6 @@
 # Tiny Quantum Simulator
 
-A small quantum simulator built from scratch in Python using NumPy.
+A small quantum simulator built from scratch, assisted by AI, in Python using NumPy.
 
 ## What it does
 
